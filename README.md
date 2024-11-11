@@ -21,8 +21,4 @@ TP2/
 │   └── server.py               # Código del servidor de escalado
 ├── client.py                   # Cliente que envía imágenes al servidor asincrónico
 ├── tp2.py                      # Script principal que inicia ambos servidores
-├── prueba.jpeg                 # Imagen de prueba
-└── tests/
-    ├── __init__.py
-    ├── test_async_server.py    # Pruebas unitarias para el servidor asincrónico
-    └── test_scaling_server.py  # Pruebas unitarias para el servidor de escalado
+└──prueba.jpeg                 # Imagen de prueba
